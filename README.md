@@ -1,4 +1,4 @@
-# Решение задач
+# [__Все лекции и разборы задач__](https://youtube.com/playlist?list=PL7wJWWNW2ZWI8KKdMe16rLaubKEl3vRgu&si=BhssFPa5YasFkwyQ)
 
 ## 1) Разминка
 
