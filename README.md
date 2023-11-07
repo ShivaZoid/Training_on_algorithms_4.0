@@ -206,7 +206,7 @@
 
     Для решения этой задачи советуем реализовать функцию, которая принимает на вход две пары итераторов, задающие два массива, и итератор на начало буфера, в который необходимо записывать результат. Итераторы можжно заменить на передачу массивов и индексов в них. В таком виде вам будет удобно использовать эту функцию для реализации сортировки.
 
-    ## [__Решение (None)__](https://github.com/ShivaZoid/Training_on_algorithms_4.0/blob/main/Lesson_1/C.py)
+    ## [__Решение__](https://github.com/ShivaZoid/Training_on_algorithms_4.0/blob/main/Lesson_1/C.py)
 
 * #### D. Сортировка слиянием
 	<details>
@@ -243,7 +243,7 @@
 
     Используйте функцию, реализованную в предыдущей задаче.
 
-    ## [__Решение (None)__](https://github.com/ShivaZoid/Training_on_algorithms_4.0/blob/main/Lesson_1/D.py)
+    ## [__Решение__](https://github.com/ShivaZoid/Training_on_algorithms_4.0/blob/main/Lesson_1/D.py)
 
 * #### E. Поразрядная сортировка
 	<details>
@@ -301,4 +301,4 @@
     |  | Sorted array: |
     |  | 09, 12, 29, 32, 35, 45, 61, 67, 98 |
 
-    ## [__Решение (None)__](https://github.com/ShivaZoid/Training_on_algorithms_4.0/blob/main/Lesson_1/E.py)
+    ## [__Решение__](https://github.com/ShivaZoid/Training_on_algorithms_4.0/blob/main/Lesson_1/E.py)
